@@ -1,4 +1,4 @@
-package com.zzkun;
+package com.zzkun.cpt1;
 
 /**
  * Created by zhangzhengkun on 2017/6/28.

@@ -1,4 +1,4 @@
-package com.zzkun;
+package com.zzkun.cpt1;
 
 public class Main {
 
